@@ -195,7 +195,7 @@ public class MakeChange {
 			// because if i left it at the end you could have gotten a weird ", ." , so we
 			// had to put it before
 			// the bill was said
-			// also, we had to specify that okay i can't be 7(because we dont wan't to get a
+			// also, we had to specify that okay i can't be 7(because we don't wan't to get a
 			// comma after penny)
 			// you can't print it if there's no value in that slot of the billsArray
 			// the previous slot in the array wasn't empty (since that would give us a comma
